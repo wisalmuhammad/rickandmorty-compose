@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rickandmorty-compose</string>
+    <string name="retry">Retry</string>
+</resources>
